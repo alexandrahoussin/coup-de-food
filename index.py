@@ -6,11 +6,11 @@ import pandas as pd
 import plotly.graph_objs as go
 
 # connect to main app.py & other pages
-from app import app
+from app import app, server
 from apps import reco, analysis
 
 #------------------- Item -----------------------------------
-server = app.server
+
 sidebar = html.Header([
     html.Div([html.Img(src='assets/logo.png', className='logo-img'),], className="logo"),
     html.Div([
