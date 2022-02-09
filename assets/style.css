@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.sidebar{
+    display: flex;
+    align-items: center;
+    margin: 10px 0 0 10px;
+}
+.header-links{
+    position: absolute;
+    right: 100px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #30A9C1;
+}
+.nav-link.active{
+    color: #D14E76;
+}
+.logo-img {
+    width: 100px;
+    padding-left: 20px;
+}
+.content{
+    margin: 50px 50px 10px 50px;
+}
+
+/* ------------------------ Home Page --------------------------------------- */
+.text-col{
+    /* background-color: #D14E76; */
+    height: 70vh;
+    margin-right: 10px;
+    margin-left: 30px;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 72px;
+    text-align: center;
+    margin-bottom: 50px;
+    color: rgba(48, 169, 193, 1);
+}
+#get-started{
+    text-align: center;
+    border: none;
+    margin-top: 50px;
+    height: 45px;
+    width: 250px;
+    background-color: #D14E76;
+}
+.project-title{
+    text-align: center;
+    padding: 10px;
+}
+.project-info{
+    text-align: justify;
+}
+.img-cont{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.home-img{
+    width:90%;
+    margin-top: 25px;
+}
+
+/* ------------------------ Analysis Page --------------------------------------- */
+.analysis-row1, .reco-row1{
+    margin-bottom: 10px;
+}
+.analysis-row2{
+    margin-top: 50px;
+}
+h2{
+    font-weight: bold;
+    font-size: 48px;
+    text-align: center;
+    color: white;
+}
+.analysis-title{
+    background-color: #F9BD51;;
+    border-radius: 10px;
+    padding: 5px;    
+}
+
+.tableau-txt{
+    margin-top: 30px;
+    text-align: center;
+}
+.analy-col1, .analy-col2{
+    background-color: rgba(249, 189, 81, 0.27);
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+.analy-col2{
+    margin-left: 5px;
+}
+.analy-col1{
+    margin-right: 5px;
+}
+#tableau-btn, #github-btn{
+    text-align: center;
+    border: none;
+    margin-top: 30px;
+    height: 45px;
+    width: 250px;
+    background-color: #D14E76;
+    
+}
+.analysis-content, .reco-content{
+    margin: 30px 50px 10px 50px;
+}
+/* ------------------------ Reco Page --------------------------------------- */
+.reco-row2{
+    height: 75vh;
+}
+.reco-title{
+    background-color: #F1A393;
+    border-radius: 10px;
+    padding: 5px; 
+}
+.reco-img-col{
+    /* background-color: yellow; */
+    display: flex;
+}
+.reco-col{
+    background-color: rgba(249, 189, 81, 0.27);
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+.reco-img{
+    width: 100%;
+    align-items: flex-end;
+}
+
+.filter-title{
+    margin-top: 20px;
+    background-color: rgba(249, 189, 81, 0.6);
+    border-radius: 10px;
+    text-align: center;
+    height: 50px;
+    width: 800px;
+    border-radius: 10px;
+    padding-top: 10px;
+    margin: 20px auto;
+    color: white;
+}
+.filter-cont{
+    margin-top: 20px;
+    
+}
+.filter-label{
+    font-size: 20px;
+    font-weight: bold;
+    color:  #30A9C1;
+}
+.eat{
+    display: flex;  
+    margin: 30px 20px;
+}
+#eat-dropdown{
+    margin-left: 20px;
+    width: 300px;
+}
+.result-cont{
+    
+    margin-top: 20px;
+}
+.taste{
+    
+    display: flex;
+    margin: 30px 20px;
+}
+#taste-dropdown{
+    margin-left: 20px;
+    width: 300px;
+}
+.btn-div{
+    text-align: center;
+    margin: 10px auto;
+
+}
+#match-btn{
+    background-color: #D14E76;
+    border-radius: 10px;
+    height: 45px;
+    border: none;
+}
+.result{
+    text-align: center;
+}
+.match{
+    font-family: 'Dancing Script', cursive;
+    font-size: 72px;
+    color: #D14E76;
+    font-weight: bold;
+    text-align: center;
+}
+
+.match-result{
+    display: flex;
+    justify-content: center;
+}
+
+.food-result, .food-img-result{
+    background-color: white;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    /* font-size: 100px; */
+    /* padding: 20px; */
+    /* text-align: center; */
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+
+}
+.wine-result{
+    
+    background: linear-gradient(45deg, rgba(241,163,147,1) 0%, rgba(241,163,147,0.6870098381149334) 35%, rgba(233,213,197,1) 75%);
+    margin-left: 50px;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    font-size: 50px;
+    padding: 20px;
+    /* text-align: center; */
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+.wine-text-result{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 38px;
+    
+}
+/* .food-img-result{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit:cover;
+    border-radius: 50%;
+    
+} */
+
+.error-result{
+    font-family: 'Dancing Script', cursive;
+    font-size: 26px;
+    color: #30A9C1;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+}
+
+.oups{
+    font-family: 'Dancing Script', cursive;
+}
