@@ -1,0 +1,144 @@
+,Wine,Pairing,Food
+0,Pinot Noir,31.3265,Chicken and Turkey
+1,Chardonnay,31.0502,Chicken and Turkey
+2,Gamay,4.4116,Chicken and Turkey
+3,Chenin Blanc,2.6281,Chicken and Turkey
+4,Zinfandel,2.0726,Chicken and Turkey
+5,Pinot Noir,83.6019,Duck
+6,Barbera,6.6394,Duck
+7,Gewurztraminer,1.8358,Duck
+8,Gamay,1.2612,Duck
+9,Chardonnay,0.5732,Duck
+10,Dornfelder,0.4326,Duck
+11,Saperavi,0.3791,Duck
+12,Glera (Prosecco),31.4312,Pork
+13,Pinot Gris,6.705,Pork
+14,Chardonnay,5.8857,Pork
+15,Blaufrankisch (Lemberger),5.379,Pork
+16,Pinot Noir,5.0691,Pork
+17,Dolcetto,4.9935,Pork
+18,Riesling,4.3505,Pork
+19,Zweigelt,3.4254,Pork
+20,Nebbiolo,16.3898,Lamb
+21,Tempranillo,9.0725,Lamb
+22,Syrah,7.9482,Lamb
+23,Merlot,7.0621,Lamb
+24,Zinfandel,4.8143,Lamb
+25,Bordeaux Blend Red,35.005,Beef and Venison
+26,Cabernet Sauvignon,20.4749,Beef and Venison
+27,Sangiovese,5.3689,Beef and Venison
+28,Shiraz,3.6194,Beef and Venison
+29,Malbec,3.5844,Beef and Venison
+30,Merlot,3.1353,Beef and Venison
+31,Cabernet Sauvignon - Merlot,2.7253,Beef and Venison
+32,Sauvignon Blanc,54.0876,Salads and green vegetables
+33,Riesling,9.1718,Salads and green vegetables
+34,Cinsault - Grenache - Syrah,4.1681,Salads and green vegetables
+35,Cinsault - Grenache,3.604,Salads and green vegetables
+36,Pinot Gris,2.6996,Salads and green vegetables
+37,Pinot Noir,2.3676,Salads and green vegetables
+38,Grenache (Garnacha),1.9963,Salads and green vegetables
+39,Bordeaux Blend Red,1.1713,Salads and green vegetables
+40,Pinot Grigio,35.6557,Root Vegetables and Squashes
+41,Lambrusco,8.2765,Root Vegetables and Squashes
+42,Viognier,3.3411,Root Vegetables and Squashes
+43,Champagne Blend,2.9384,Root Vegetables and Squashes
+44,Pinot Blanc,2.7273,Root Vegetables and Squashes
+45,Chenin Blanc,2.6651,Root Vegetables and Squashes
+46,Pinot Gris,2.1976,Root Vegetables and Squashes
+47,Chardonnay,94.5123,Mushrooms
+48,Trebbiano (Ugni Blanc),1.509,Mushrooms
+49,Pecorino,0.9487,Mushrooms
+50,Orvieto Blend,0.835,Mushrooms
+51,Pinot Grigio,0.4666,Mushrooms
+52,Grechetto,0.3462,Mushrooms
+53,Blaufrankisch (Lemberger),0.2508,Mushrooms
+54,Passerina,0.126,Mushrooms
+55,Tempranillo,3.8895,Tomato based dishes
+56,Grenache (Garnacha),2.8357,Tomato based dishes
+57,Montepulciano,2.5099,Tomato based dishes
+58,Pinot Grigio,2.0844,Tomato based dishes
+59,Malbec,1.9647,Tomato based dishes
+60,Pinot Noir,1.9414,Tomato based dishes
+61,Muscat,51.8723,Spicy dishes
+62,Riesling,19.3864,Spicy dishes
+63,Gewurztraminer,7.0403,Spicy dishes
+64,Muscat of Alexandria,4.3024,Spicy dishes
+65,Muscat Blanc a Petits Grains,1.292,Spicy dishes
+66,Muller-Thurgau,0.6091,Spicy dishes
+67,Pinot Blanc,0.311,Spicy dishes
+68,Riesling,15.5755,White fish
+69,Pinot Grigio,12.9246,White fish
+70,Chardonnay,8.2233,White fish
+71,Sauvignon Blanc,5.8843,White fish
+72,Gruner Veltliner,5.7073,White fish
+73,Chardonnay - Pinot Noir,3.3208,White fish
+74,Vermentino (Rolle),2.4119,White fish
+75,Verdicchio,2.3957,White fish
+76,Champagne Blend,16.8439,Meaty and Oily Fish
+77,Pinot Noir,16.2184,Meaty and Oily Fish
+78,Sauvignon Blanc,15.2276,Meaty and Oily Fish
+79,Bordeaux Blend White,7.1411,Meaty and Oily Fish
+80,Riesling,6.0936,Meaty and Oily Fish
+81,Sauvignon Blanc - Semillon,5.4765,Meaty and Oily Fish
+82,Chardonnay - Pinot Noir,5.3491,Meaty and Oily Fish
+83,Glera - Pinot Noir,2.4811,Meaty and Oily Fish
+84,Champagne Blend,35.3989,"Shellfish, Crab and Lobster"
+85,Chardonnay,24.2793,"Shellfish, Crab and Lobster"
+86,Chardonnay - Pinot Noir,7.2465,"Shellfish, Crab and Lobster"
+87,Albarino (Alvarinho),4.3805,"Shellfish, Crab and Lobster"
+88,Pinot Noir,4.075,"Shellfish, Crab and Lobster"
+89,Melon de Bourgogne,1.5584,"Shellfish, Crab and Lobster"
+90,Muscat,1.3964,"Shellfish, Crab and Lobster"
+91,Sauvignon Blanc,80.4396,Goat cheese and feta
+92,Sauvignon Blanc - Semillon,1.2895,Goat cheese and feta
+93,Pinot Grigio,1.2679,Goat cheese and feta
+94,Riesling,1.1435,Goat cheese and feta
+95,Semillon,1.0204,Goat cheese and feta
+96,Pinot Blanc,0.6029,Goat cheese and feta
+97,Pinot Gris,0.4366,Goat cheese and feta
+98,Chardonnay - Viognier,0.4036,Goat cheese and feta
+99,Cava Blend,52.0402,Manchego and parmesan
+100,Sangiovese,3.1689,Manchego and parmesan
+101,Tinta Negra Mole,2.8291,Manchego and parmesan
+102,Macabeo (Viura),2.4434,Manchego and parmesan
+103,Negroamaro,2.2978,Manchego and parmesan
+104,Nerello Mascalese,2.2924,Manchego and parmesan
+105,Muscat,1.9094,Manchego and parmesan
+106,Pinot Grigio,1.424,Manchego and parmesan
+107,Palomino,14.2308,Cheddar & gruyere
+108,Muscat Blanc a Petits Grains,14.0812,Cheddar & gruyere
+109,Chenin Blanc,10.5636,Cheddar & gruyere
+110,Chardonnay,8.3588,Cheddar & gruyere
+111,Sauvignon Blanc,7.2235,Cheddar & gruyere
+112,Muscat,6.8316,Cheddar & gruyere
+113,Pinot Gris,6.746,Cheddar & gruyere
+114,Gewurztraminer,5.4386,Cheddar & gruyere
+115,Pinot Grigio,5.1151,Cheddar & gruyere
+116,Sauvignon Blanc - Semillon,55.3048,Blue cheeses
+117,Port Blend Red,20.2745,Blue cheeses
+118,Semillon,8.1605,Blue cheeses
+119,Riesling,5.1295,Blue cheeses
+120,Bordeaux Blend White,4.7037,Blue cheeses
+121,Vidal,3.1507,Blue cheeses
+122,Cabernet Franc,0.7319,Blue cheeses
+123,Gruner Veltliner,0.3893,Blue cheeses
+124,Chardonnay,0.011,Brie and Camembert
+125,Riesling,24.5696,Fruit-based desserts
+126,Muscat,5.528,Fruit-based desserts
+127,Sherry Blend,4.9238,Fruit-based desserts
+128,Port Blend White,4.797,Fruit-based desserts
+129,Chenin Blanc,4.7909,Fruit-based desserts
+130,Semillon,4.4476,Fruit-based desserts
+131,Tokaji Blend,2.9876,Fruit-based desserts
+132,Port Blend Red,72.6723,Chocolate and Caramel
+133,Grenache (Garnacha),2.1446,Chocolate and Caramel
+134,Grenache - Mourvedre - Syrah,0.8093,Chocolate and Caramel
+135,Cabernet Sauvignon,0.8053,Chocolate and Caramel
+136,Nero d\'Avola,0.4565,Chocolate and Caramel
+137,Muscat,14.5949,Cakes and cream
+138,Champagne Blend,12.4557,Cakes and cream
+139,Muscat Blanc a Petits Grains,12.3004,Cakes and cream
+140,Bual (Malvasia Fina),4.3072,Cakes and cream
+141,Tinta Negra Mole,4.2132,Cakes and cream
+142,Brachetto,4.0906,Cakes and cream
