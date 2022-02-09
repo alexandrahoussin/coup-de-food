@@ -23,7 +23,7 @@ layout = html.Div([
                 html.P("This project is a follow-up to a data analysis course."),
                 html.P("The data used comes from a dataset of French and Italian wines and from scraping of specialized websites."),
                 html.P("The preprocessing was coded in Python, the NLP part was done with Sklearn and the application with Dash. The code is available on Github."),
-                dcc.Link(dbc.Button('Github', id='github-btn'), href='#', target="_blank"),
+                dcc.Link(dbc.Button('Github', id='github-btn'), href='https://github.com/alexandrahoussin/coup-de-food', target="_blank"),
                 ], className='tableau-txt'),
             ], className='analy-col1'),
         
