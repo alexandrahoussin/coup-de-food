@@ -10,7 +10,7 @@ from app import app, server
 from apps import reco, analysis
 
 #------------------- Item -----------------------------------
-server = app.server
+
 sidebar = html.Header([
     html.Div([html.Img(src='assets/logo.png', className='logo-img'),], className="logo"),
     html.Div([
