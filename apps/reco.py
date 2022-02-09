@@ -54,8 +54,10 @@ images_dict = {'Chicken and Turkey' : '../assets/food/chicken.jpg', 'Duck': '../
              'Fruit-based desserts':'../assets/food/fruit.jpg',
              'Chocolate and Caramel':'../assets/food/choco.jpg', 'Cakes and cream':'../assets/food/cake.jpg'}
 
-df_food = pd.read_csv('CoupDeFood/food.csv', index_col = 0)
-df_wine = pd.read_csv('CoupDeFood/wines.csv', index_col = 0)
+df_food = pd.read_csv('food.csv', index_col = 0)
+df_wine = pd.read_csv('wines.csv', index_col = 0)
+
+
 
 def match(food, result):
     return html.Div([
